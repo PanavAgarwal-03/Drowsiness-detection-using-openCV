@@ -46,9 +46,10 @@ pip install opencv-python dlib imutils scipy pygame
 
 ```bash
 python drowsiness_detection.py
+```
 
 Press 'q' to quit the application.
-```
+
 
 ## ⚠️ Disclaimer
 
