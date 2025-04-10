@@ -61,7 +61,4 @@ Dlib Library
 Adrian Rosebrock - PyImageSearch
 
 
----
-
-Let me know if you want help with your GitHub repo description or badges like stars, forks, or license!
 
