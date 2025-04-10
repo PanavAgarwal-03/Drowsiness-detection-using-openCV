@@ -27,8 +27,8 @@ The system detects facial landmarks to identify the eyes, then calculates the **
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/drowsiness-detection.git
-cd drowsiness-detection
+git clone https://github.com/PanavAgarwal-03/Drowsiness-detection-using-openCV.git
+cd Drowsiness-detection-using-openCV
 ```
 
 2. **Install Dependencies**
