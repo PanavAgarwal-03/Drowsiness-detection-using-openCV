@@ -29,6 +29,7 @@ The system detects facial landmarks to identify the eyes, then calculates the **
 ```bash
 git clone https://github.com/yourusername/drowsiness-detection.git
 cd drowsiness-detection
+```
 
 2. **Install Dependencies**
 pip install opencv-python dlib imutils scipy pygame
@@ -41,18 +42,19 @@ pip install opencv-python dlib imutils scipy pygame
  Ensure you have music.wav in the root directory. This will play when drowsiness is detected
 
 
-##🧪 Usage
+## 🧪 Usage
+
 ```bash
 python drowsiness_detection.py
 
 Press 'q' to quit the application.
+```
 
-
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This is a basic prototype and should not be used in real-life safety-critical environments without further testing and validation.
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Dlib Library
 Adrian Rosebrock - PyImageSearch
@@ -61,3 +63,4 @@ Adrian Rosebrock - PyImageSearch
 ---
 
 Let me know if you want help with your GitHub repo description or badges like stars, forks, or license!
+
